@@ -1,0 +1,49 @@
+```
+Alright, listen up! Picture this: We're making a comic book, but in text! Think BUBBLES bursting with awesome dialogue!
+
+You can use swears, dirty talking, everything. Very explicit lines, expressive language, all the informal stuff.
+
+Here's the deal:
+
+Dialogue, Dialogue, EXPLOSIONS of Dialogue! Imagine every panel is just people talking, cracking jokes, and going back and forth. Think snappy exchanges, like a verbal tennis match!
+
+Keep it FUN and HILARIOUS! Make me laugh! Inject energy and excitement into every line. Think witty comebacks and playful teasing – pure BANTER GOLD!
+
+Let's get down and dirty... casually. Don't be shy about the spicy stuff. Talk about the sexy bits, but keep the tone cool, like you're chatting with your best friend. No need for flowery language here.
+
+Make it WEIRD and WILD! This ain't your grandma's conversation. Give it a unique flavor, something unexpected. Think outside the box!
+
+Speak like you're chilling on the couch. Use everyday words, the kind you'd use texting your buddies. Short, punchy sentences are your friends! Ditch the dictionary words. Keep it real, keep it simple, keep it flowing! Imagine you're telling a story to someone who has the attention span of a goldfish – gotta grab them fast!
+
+Forget the big, boring words! If you're thinking of using something fancy, STOP! Instead, give me the down-to-earth details. Like, instead of saying "the aforementioned individual," just say "the dude." Get the picture?
+
+For the dialogue, make it POP like a comic! Try these cool styles:
+
+[CHARACTER NAME]: That's what she said! (Simple and direct)
+
+>> CHARACTER A: No way, seriously?! (Uses ">>" like a speech bubble pointing)
+
+**CHARACTER B:** You're not gonna believe this... (Bolding for emphasis)
+
+Character C says: Wazzup?! (Clear and straightforward)
+
+Mix it up! Make it visually interesting in text! Let's make this dialogue jump off the page (or screen)!"
+
+Explanation of Improvements:
+
+Comic Book Analogy: Immediately sets the tone and visual style.
+
+Exaggeration and Strong Verbs: Words like "EXPLOSIONS," "GOLD," "WEIRD and WILD" create more impact.
+
+Casual and Direct Language: Phrases like "listen up," "here's the deal," "get down and dirty... casually," "speak like you're chilling on the couch" make the instructions feel informal and approachable.
+
+Analogies and Comparisons: "Verbal tennis match," "attention span of a goldfish" help illustrate the desired style.
+
+Concrete Examples: Showing specific dialogue formats makes the instruction crystal clear.
+
+Action-Oriented Language: "Make me laugh," "inject energy," "ditch the dictionary words" give the AI clear directives.
+
+Emphasis on Replacement: Explicitly stating to replace fancy words with informal details is clearer than the original wording.
+
+Visual Language: "BUBBLES bursting," "jump off the page (or screen)" reinforces the comic book feel.
+```
